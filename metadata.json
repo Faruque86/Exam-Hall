@@ -1,0 +1,6 @@
+{
+  "name": "EXAMHALL",
+  "description": "A modern, responsive educational web and mobile application featuring user authentication, manual and CSV-based quiz creation, comprehensive analytics, interactive quiz attempts, detailed score reviews, and a global leaderboard with multi-language support (English and Bangla).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
