@@ -2,12 +2,7 @@ import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
-export default defineConfig(() => {
-  return {
-    base: './', // Now assets are resolved relatively, fixing the blank screen!
-    ...
-  }
-});
+
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
